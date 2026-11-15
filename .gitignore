@@ -1,0 +1,3 @@
+src/**/*.class
+.vscode/
+.DS_Store
