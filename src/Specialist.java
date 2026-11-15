@@ -29,3 +29,4 @@ public class Specialist extends HealthProfessional {
         return super.toString() + ", Specialty: " + specialty + ", Job Type: " + getJobType();
     }
 }
+
